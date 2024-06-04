@@ -1,0 +1,4 @@
+#Locators for login
+Browser = chrome
+Url = http://webapp.qedgetech.com/
+ 
